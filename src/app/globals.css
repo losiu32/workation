@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --brand-green: #1D9E75;
+  --brand-text: #2C2C2A;
+}
+
+body {
+  color: var(--brand-text);
+  background: #ffffff;
+}
