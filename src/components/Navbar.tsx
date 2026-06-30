@@ -56,7 +56,7 @@ export default function Navbar() {
               href="/dashboard"
               className="px-4 py-2 text-sm font-medium text-brand-text hover:text-brand-green transition-colors"
             >
-              Dashboard
+              Moje konto
             </Link>
             <button
               onClick={handleLogout}
